@@ -208,7 +208,7 @@ public class ReadExcel {
 
 	public static void main(String[] args) {
 		try {
-			readExcel(new File("e:\\a.xls"));
+			readExcel(new File("C:\\Users\\旭金科技\\Desktop\\Excel2db.xlsx"));
 			// readExcel(new File("D:\\test.xls"));
 		} catch (IOException e) {
 			e.printStackTrace();

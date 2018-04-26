@@ -12,6 +12,5 @@ model	        varchar	50	型号
 
 
 3.使用方法
-  导入Excel2mysql.jar 
- 配置文件db.propertis
+ToMySQL
 
